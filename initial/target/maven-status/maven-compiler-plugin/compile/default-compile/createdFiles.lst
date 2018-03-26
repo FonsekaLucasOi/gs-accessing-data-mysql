@@ -1,0 +1,4 @@
+br/com/hello/Application.class
+br/com/hello/User.class
+br/com/hello/UserRepository.class
+br/com/hello/MainController.class
